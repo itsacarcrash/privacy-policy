@@ -1,0 +1,28 @@
+title: It's a Car Crash — Legal & Policies
+description: Privacy, Terms, and Cookies policies for the It's a Car Crash app.
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-readme-index
+  - jekyll-relative-links
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: false
+readme_index:
+  with_frontmatter: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Makefile
+  - vendor
+  - .gitignore
+kramdown:
+  syntax_highlighter: rouge
+lsi: false
+safe: true
+incremental: false

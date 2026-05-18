@@ -1,3 +1,7 @@
+---
+title: Cookies Policy
+---
+
 # Cookies Policy
 
 _Last updated: 2026-05-18_

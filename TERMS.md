@@ -1,3 +1,7 @@
+---
+title: Terms and Conditions
+---
+
 # Terms and Conditions of Use
 
 _Last updated: 2026-05-18_
