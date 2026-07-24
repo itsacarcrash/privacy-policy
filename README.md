@@ -2,7 +2,7 @@
 
 This page sets out the legal documents that govern your use of the **It's a Car Crash** mobile application, operated by **It's a Car Crash Limited**, a company incorporated in England and Wales. The It's a Car Crash app links to these documents directly, and any update takes effect as soon as it is published here.
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-07-24_
 
 ## Documents
 

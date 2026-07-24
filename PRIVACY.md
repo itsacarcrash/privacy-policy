@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-_Last updated: 2026-05-18_
+_Last updated: 2026-07-24_
 
 This privacy policy applies between you, the User of the It's a Car Crash mobile application (the "App"), and It's a Car Crash Limited, the owner and provider of the App. It's a Car Crash Limited takes the privacy of your information very seriously. This privacy policy applies to our use of any and all Data collected by us or provided by you in relation to your use of the App.
 
@@ -42,12 +42,15 @@ Please read this privacy policy carefully.
    1. name;
    2. email address;
    3. gender;
-   4. location information transmitted from your mobile device, within the scope necessary for the relevant feature;
+   4. location information transmitted from your mobile device, within the scope necessary for the relevant feature — this includes, for the crash detection feature described below, your device's location at the moment a possible vehicle collision is detected;
    5. profile pictures and other images you choose to upload;
    6. device information (such as device model, operating system, and language settings), collected automatically;
-   7. usage and diagnostic information about how you interact with the App, collected automatically.
+   7. usage and diagnostic information about how you interact with the App, collected automatically;
+   8. motion and impact-force information (such as acceleration) captured by your device's sensors at the moment a possible vehicle collision is detected, for the crash detection feature described below.
 
    in each case, in accordance with this privacy policy.
+
+   **Crash detection.** The App includes a feature that uses your device's motion sensors and location (including in the background, while the App is not open) to detect when you may have been in a vehicle collision, so that it can offer you relevant safety guidance. This feature does not track or store your location continuously — it records a single location, speed and impact-force reading only at the moment a possible collision is detected. Data recorded by this feature that does not correspond to a confirmed possible collision, or that has already been sent to our servers, is automatically deleted from your device after a short period (currently up to 30 days).
 
 ## 4. How we collect Data
 
@@ -76,7 +79,8 @@ Please read this privacy policy carefully.
    1. internal record keeping;
    2. provision and improvement of our products and services;
    3. prevention of fraudulent or abusive use of the App;
-   4. transmission by email of communications, including service updates and (where you have consented) marketing materials that may be of interest to you.
+   4. detecting a possible vehicle collision and offering you relevant safety guidance (our crash detection feature);
+   5. transmission by email of communications, including service updates and (where you have consented) marketing materials that may be of interest to you.
 10. We may use your Data for the above purposes if we deem it necessary to do so for our legitimate interests. If you are not satisfied with this, you have the right to object in certain circumstances (see the section headed "Your rights" below).
 11. For the delivery of direct marketing to you via email, we'll need your consent, whether via an opt-in or soft opt-in:
     1. soft opt-in consent is a specific type of consent which applies when you have previously engaged with us. Under "soft opt-in" consent, we will take your consent as given unless you opt out;
